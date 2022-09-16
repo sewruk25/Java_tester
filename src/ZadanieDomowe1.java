@@ -1,5 +1,5 @@
 public class ZadanieDomowe1 {
-    public static void zadanie_domowe_1(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Zadanko pierwsze");
     }
 }
